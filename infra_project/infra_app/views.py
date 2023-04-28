@@ -9,4 +9,4 @@ def second_page(request):
     return HttpResponse('А это вторая страница')
 
 def third_page(request):
-    return HttpResponse('Что то добавил')
+    return HttpResponse('А это третья страница')
