@@ -12,6 +12,7 @@ __pycache__/
 *.sublime-workspace
 
 .vscode/
+.idea/
 *.code-workspace
 
 # C extensions
